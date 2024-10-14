@@ -9,3 +9,27 @@ nav
     align-items: center;
     justify-content: space-between;
 }
+.nav-item {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+}
+.nav-links
+    {
+        list-style-type: none;
+        display: flex;
+        gap: 18px;
+    }
+
+.nav-links
+    {
+        text-decoration: none;
+        color: white;
+        font-size: 14pt;
+    }
+a
+{
+    color: white;
+}
